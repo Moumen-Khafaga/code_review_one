@@ -1,0 +1,23 @@
+div {
+	background-color: #003399;
+}
+#myname {
+	color: white;
+}
+#myhomepage {
+	color: white;
+}
+#searchbar {
+	height: 20px;
+	margin-bottom: 10px;
+}
+#facebook_logo {
+margin-left: 5px;
+margin-top: 1px;
+position: relative;
+top: 10px;
+}
+#search_logo {
+	position: relative;
+	top: 10px;
+}
