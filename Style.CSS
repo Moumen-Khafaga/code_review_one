@@ -1,11 +1,15 @@
 div {
 	background-color: #003399;
 }
+/*first type of selectors*/
 #myname {
 	color: white;
+
 }
+/*2nd type of selectors*/
 #myhomepage {
 	color: white;
+	
 }
 #searchbar {
 	height: 20px;
@@ -20,4 +24,42 @@ top: 10px;
 #search_logo {
 	position: relative;
 	top: 10px;
+}
+#widgets {
+	position: relative;
+	right: 500px;
+}
+#Turn_on_chat {
+	position: relative;
+	left: 500px;
+	font-weight: 900;
+}
+#contacts {
+	position: relative;
+	left: 500px;
+}
+#status_bar {
+	height: 50px; 
+	width: 500px;
+}
+span #Buttons {
+	position: relative;
+	left: 1000px;
+}
+/*3rd type of selector*/
+#Candy_Crush {
+position: relative;
+	right: 500px;
+}
+#pics {
+	position: relative;
+	right: 500px;
+}
+#Friends {
+	position: relative;
+	right: 500px;
+}
+#Messages {
+	position: relative;
+	right: 500px;
 }
